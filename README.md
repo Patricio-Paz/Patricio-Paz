@@ -37,6 +37,7 @@ Busco **prácticas o proyectos como desarrollador backend**, donde pueda aplicar
 ## 🔹 Proyectos y contacto
 - 🌐 GitHub: [https://github.com/Patricio-Paz](https://github.com/Patricio-Paz)  
 - 📧 Contacto: patricioppaz2312@gmail.com
+- 📱 Telefono : +56935115425
 
 ---
 
