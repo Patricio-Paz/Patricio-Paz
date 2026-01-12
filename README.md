@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hola, soy Patricio Paz
 
-<!--
-**Patricio-Paz/Patricio-Paz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de 2° año en Ingeniería en Informática (INACAP Arica)  
+💻 Apasionado por el **desarrollo backend** y la creación de **APIs REST**.  
+🛠 Tecnologías que manejo: **Python, Django, JavaScript, HTML, CSS, SQL**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Qué hago
+- Desarrollo de aplicaciones web y servicios backend.  
+- Implementación de APIs REST con Django REST Framework.  
+- Manejo de bases de datos y estructuras de información eficientes.  
+
+---
+
+## 🔹 Qué busco
+Busco **prácticas o proyectos como desarrollador backend**, donde pueda aplicar mis conocimientos, aprender buenas prácticas y contribuir con soluciones efectivas.
+
+---
+
+## 🔹 Proyectos y contacto
+- 🌐 GitHub: [https://github.com/Patricio-Paz](https://github.com/Patricio-Paz)  
+- 📧 Contacto: patriciopaz@example.com  
+
+---
+
+**“Siempre aprendiendo, siempre mejorando 🚀”**
