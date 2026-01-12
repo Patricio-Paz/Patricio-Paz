@@ -20,7 +20,7 @@ Busco **prácticas o proyectos como desarrollador backend**, donde pueda aplicar
 
 ## 🔹 Proyectos y contacto
 - 🌐 GitHub: [https://github.com/Patricio-Paz](https://github.com/Patricio-Paz)  
-- 📧 Contacto: patriciopaz@example.com  
+- 📧 Contacto: patricioppaz2312@gmail.com
 
 ---
 
