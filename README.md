@@ -2,7 +2,10 @@
 
 🎓 Estudiante de 2° año en Ingeniería en Informática (INACAP Arica)  
 💻 Apasionado por el **desarrollo web fullstack**, backend y APIs REST  
-🚀 Siempre aprendiendo y mejorando mis habilidades   
+🚀 Siempre aprendiendo y mejorando mis habilidades
+🌱 Me considero un aprendiz constante, siempre buscando nuevas herramientas y buenas prácticas para mejorar la calidad de mis proyectos.  
+🤝 Me gusta colaborar con otros, compartir conocimientos y aprender de la experiencia de equipos multidisciplinarios.
+
 
 ---
 
