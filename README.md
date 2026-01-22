@@ -1,6 +1,6 @@
 # 👋 Hola, soy Patricio Paz
 
-🎓 Estudiante de 2° año en Ingeniería en Informática (INACAP Arica)  
+🎓 Estudiante de 3° año en Ingeniería en Informática (INACAP Arica)  
 💻 Apasionado por el **desarrollo web fullstack**, backend y APIs REST  
 🌱 Me considero un aprendiz constante, siempre buscando nuevas herramientas y buenas prácticas para mejorar la calidad de mis proyectos.  
 🤝 Me gusta colaborar con otros, compartir conocimientos y aprender de la experiencia de equipos multidisciplinarios.
