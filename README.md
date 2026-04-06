@@ -31,7 +31,7 @@
 ---
 
 ## 🔹 Experiencia profesional
-Analista Programador — FAMCHI Arica
+💻Analista Programador — FAMCHI Arica
 - Implementé mejoras en la gestión de correos electrónicos, optimizando envíos y reduciendo el riesgo de que lleguen a spam.
 - Administré y realicé modificaciones en el sitio web institucional con WordPress, mejorando la usabilidad y apariencia.
 - Creé y optimicé formularios digitales para recolección de información interna y externa, asegurando datos confiables y eficientes.
