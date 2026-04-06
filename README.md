@@ -1,9 +1,9 @@
 # 👋 Hola, soy Patricio Paz
 
-🎓 Estudiante de 3° año en Ingeniería en Informática (INACAP Arica)  
-💻 Apasionado por el **desarrollo web fullstack**, backend y APIs REST  
-🌱 Me considero un aprendiz constante, siempre buscando nuevas herramientas y buenas prácticas para mejorar la calidad de mis proyectos.  
-🤝 Me gusta colaborar con otros, compartir conocimientos y aprender de la experiencia de equipos multidisciplinarios.
+🎓 Técnico Superior en Informática | Estudiante en Ingeniería en Informática 
+💻 Especializado en desarrollo web, administración digital y optimización de procesos
+🌟 Profesional orientado a resultados, con experiencia real en proyectos de mejora operativa y digitalización
+🤝 Me apasiona resolver problemas concretos, optimizar sistemas y colaborar con equipos multidisciplinarios
 
 
 ---
@@ -29,9 +29,12 @@
 
 ---
 
-## 🔹 Qué busco
-Busco **prácticas o proyectos como desarrollador backend**, donde pueda aplicar mis conocimientos, aprender buenas prácticas y contribuir con soluciones efectivas.
-
+## 🔹 Experiencia profesional
+Analista Programador — FAMCHI Arica
+- Implementé mejoras en la gestión de correos electrónicos, optimizando envíos y reduciendo el riesgo de que lleguen a spam.
+- Administré y realicé modificaciones en el sitio web institucional con WordPress, mejorando la usabilidad y apariencia.
+- Creé y optimicé formularios digitales para recolección de información interna y externa, asegurando datos confiables y eficientes.
+- Colaboré en proyectos internos de digitalización de procesos, proponiendo soluciones prácticas y funcionales.
 ---
 
 ## 🔹 Proyectos y contacto
