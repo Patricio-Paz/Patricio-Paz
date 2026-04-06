@@ -1,8 +1,8 @@
 # 👋 Hola, soy Patricio Paz
 
-🎓 Técnico Superior en Informática | Estudiante en Ingeniería en Informática 
-💻 Especializado en desarrollo web, administración digital y optimización de procesos 
-🌟 Profesional orientado a resultados, con experiencia real en proyectos de mejora operativa y digitalización 
+🎓 Técnico Superior en Informática | Estudiante en Ingeniería en Informática
+💻 Especializado en desarrollo web, administración digital y optimización de procesos
+🌟 Profesional orientado a resultados, con experiencia real en proyectos de mejora operativa y digitalización
 🤝 Me apasiona resolver problemas concretos, optimizar sistemas y colaborar con equipos multidisciplinarios
 
 
